@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Home Page -->
+    <url>
+        <loc>https://www.yourdomainhere.com/</loc>
+        <lastmod>2026-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomainhere.com/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://www.yourdomainhere.com/"/>
+    </url>
+    
+    <!-- Face Services Page -->
+    <url>
+        <loc>https://www.yourdomainhere.com/faceservice.html</loc>
+        <lastmod>2026-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomainhere.com/faceservice.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://www.yourdomainhere.com/faceservice.html"/>
+    </url>
+    
+    <!-- Body Services Page -->
+    <url>
+        <loc>https://www.yourdomainhere.com/bodyservices.html</loc>
+        <lastmod>2026-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.yourdomainhere.com/bodyservices.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://www.yourdomainhere.com/bodyservices.html"/>
+    </url>
+    
+</urlset>
